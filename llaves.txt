@@ -6,3 +6,6 @@ ojo!!
 git ignore ignora los siguientes archivos usados  por el proyecto:
 node_modules/
 .env
+nuevas
+PUBLIC_VAPID_KEY=BAtKda8F-asJqK8Tw9-YEsCx1_TbELidV30Iruy2a0VevknRlT1AWzMx6LGhUfEWfouTuEV17N6SCzO3U1fLYk8
+PRIVATE_VAPID_KEY=JLYH02aqIqClsBzlo6exfl8qBhbe7OoSrE8B_sH2OMg
